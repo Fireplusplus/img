@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2024-07-14T12:05:47.801Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.2.1" etag="vkDrJSpgOPtB4aGrhfbl" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-14T12:25:38.063Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Jt6UhEOoka0dHgxYtur1" version="24.2.1" type="github">
   <diagram name="第 1 页" id="C43v9zx9rCsn_my886-Y">
-    <mxGraphModel>
+    <mxGraphModel dx="620" dy="473" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-f-O5zjHYzn9J2Ej33bA-1" value="用户程序" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="94" y="69" width="269" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="-f-O5zjHYzn9J2Ej33bA-2" value="内核协议栈" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="94" y="116" width="269" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="-f-O5zjHYzn9J2Ej33bA-3" value="网卡驱动" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="94" y="163" width="269" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="-f-O5zjHYzn9J2Ej33bA-4" value="网卡" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="94" y="210" width="269" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="-f-O5zjHYzn9J2Ej33bA-5" value="XDP" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="116" y="171.5" width="68" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
